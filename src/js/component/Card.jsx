@@ -3,7 +3,7 @@ import React from "react";
 const Card = () => {
 	return (
 		<div className="row">
-			<div className="card col-3">
+			<div className="card col-3 w-25">
 				<img
 					className="card-img-top"
 					src="https://github.com/4GeeksAcademy/react-tutorial-exercises/blob/master/.learn/assets/Dylan.png?raw=true"
